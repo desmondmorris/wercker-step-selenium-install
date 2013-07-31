@@ -1,4 +1,11 @@
-wercker-step-selenium-install
-=============================
+# Drush
 
-Installs and starts selenium server
+A wercker build step that installs and runs selenium server
+
+## Options
+
+This step has no options.
+
+## Contribute
+
+https://github.com/desmondmorris/wercker-step-selenium-install

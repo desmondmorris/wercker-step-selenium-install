@@ -1,4 +1,4 @@
-# Drush
+# Werker Step: Selenium
 
 A wercker build step that installs and runs selenium server
 
